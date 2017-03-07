@@ -1,2 +1,6 @@
 # OpenMSToXCMS
-R functions to convert featureXML and consensusXML to CAMERA/XCMS
+## R functions to convert featureXML and consensusXML to CAMERA/XCMS
+
+This is an attempt to make OpenMS and XCMS working with each other. 
+The main use of these function is for metabolomics. 
+
